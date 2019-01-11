@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Online MP3 Player</title>
+	<link rel="stylesheet" href="main.css">
+</head>
+<body>
+	<div class="container">
+		<h1 style="text-align: center;">Online MP3 Player</h1>
+		<div class="song">
+			<h2 class="title"></h2>
+			<div class="btns">
+				<button class="back" onclick="back();"><img src="icons/play.png"></button>
+				<button class="pause paused" onclick="pauseBtn();"><img src="icons/play.png"></button>
+				<button class="forward" onclick="forward();"><img src="icons/play.png"></button>
+				<button class="loop" onclick="loop();"><img src="icons/play.png"></button>
+			</div>
+		</div>
+		<audio id="song"></audio>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>
