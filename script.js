@@ -1,6 +1,7 @@
 var songs = [
 	{ title: "A Sky Full of Stars", file: "A Sky Full of Stars.mp3" },
 	{ title: "A Thousand Miles", file: "A Thousand Miles.mp3" },
+	{ title: "Alarm", file: "Alarm.mp3" },
 	{ title: "Am I Wrong", file: "Am I Wrong.mp3" },
 	{ title: "Brand New Eyes", file: "Brand New Eyes.mp3" },
 	{ title: "breathin'", file: "breathin'.mp3" },
@@ -16,6 +17,7 @@ var songs = [
 	{ title: "Faded", file: "Faded.mp3" },
 	{ title: "God is a Woman", file: "God is a Woman.mp3" },
 	{ title: "Happier", file: "Happier.mp3" },
+	{ title: "Heavy", file: "Heavy.mp3" },
 	{ title: "Heroes", file: "Heroes.mp3" },
 	{ title: "I Lived", file: "I Lived.mp3" },
 	{ title: "If I Lose Myself", file: "If I Lose Myself.mp3" },
