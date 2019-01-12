@@ -3,6 +3,7 @@ var songs = [
 	{ title: "A Thousand Miles", file: "A Thousand Miles.mp3" },
 	{ title: "Alarm", file: "Alarm.mp3" },
 	{ title: "Am I Wrong", file: "Am I Wrong.mp3" },
+	{ title: "Back To You", file: "Back To You.mp3" },
 	{ title: "Brand New Eyes", file: "Brand New Eyes.mp3" },
 	{ title: "breathin'", file: "breathin'.mp3" },
 	{ title: "California Dreamin'", file: "California Dreamin'.mp3" },
